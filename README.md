@@ -1,2 +1,2 @@
 # Django-api-example
-Example Django api for project
+Example Django api for school project
